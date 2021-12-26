@@ -1,6 +1,6 @@
 {
   "name": "gdax-trading-bot",
-  "version": "7.0.7",
+  "version": "7.0.8",
   "description": "Trading bot for the Coinbase Pro exchange",
   "bin": "index.js",
   "scripts": {

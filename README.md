@@ -16,10 +16,10 @@ You should be able to buy at least 10 seeds of each coin with your initial bitco
 
 Example:
 
-- Your seeds are set as 1 MKR and 1 ETH (default settings) 
-- The price of Maker is 0.01 BTC and the price of Ethereum is 0.02 BTC
+- Your seeds are set as 0.01 MKR and 0.01 ETH (default settings) 
+- The price of Maker is 0.1 BTC and the price of Ethereum is 0.2 BTC
 - You should be able to buy 10 seeds of each coin with your initial bitcoin balance
-- Your minimum bitcoin balance should be: (0.01 + 0.02) * 10 = 0.3 BTC
+- Your minimum bitcoin balance should be: (0.1 * 0.01 + 0.2 * 0.01) * 10 = 0.03 BTC
 
 ## Quick guide
 

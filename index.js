@@ -4,13 +4,13 @@
  ============================================================================
  Name        : GDAX Trading Bot
  Author      : Kenshiro
- Version     : 7.07
+ Version     : 7.08
  Copyright   : GNU General Public License (GPLv3)
  Description : Trading bot for the Coinbase Pro exchange
  ============================================================================
  */
 
-const APP_VERSION = "v7.07";
+const APP_VERSION = "v7.08";
 
 const GdaxModule = require('coinbase-pro');
 
@@ -30,8 +30,8 @@ const ETHEREUM_TICKER = 'ETH';
 const SLEEP_TIME = 30000;
 
 // The seed is the amount of coins that the program will trade continuously
-const SEED_MKR_AMOUNT = 1.0;
-const SEED_ETH_AMOUNT = 1.0;
+const SEED_MKR_AMOUNT = 0.01;
+const SEED_ETH_AMOUNT = 0.01;
 
 // Profit percentage trading a seed
 const PROFIT_PERCENTAGE = 2.0; 
